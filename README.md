@@ -1,3 +1,3 @@
 # SELENIUM TUTORIAL
 
-### Reveiw the EasyJet website
+- Reveiw the EasyJet website
