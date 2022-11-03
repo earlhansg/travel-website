@@ -1,7 +1,6 @@
-# SELENIUM TUTORIAL
+# Search Feature Field
 
-- Reveiw the EasyJet website
-- Understand how the flight search panel works
-- Understand the "From" and "To" flight validation rules
-- Practice how to select a result by using "visible text"
-- Discuss what approach need
+- click the search bar origin
+- put a text in field of origins or destinations
+- wait when the elements are visible and get the dropdown list suggestions for origins or destinations
+- display all the list using for loop and choose
